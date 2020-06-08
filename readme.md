@@ -9,4 +9,4 @@ An attempt to develop an option pricing module with basic numerical procedures.
 ###### BINOMIAL TREES
 ![alt text](binomial_tree.png "Title")
 ###### MONTE CARLO SIMULATION
-![alt text](mcs.png "Title")
+![alt text](mc.png "Title")
